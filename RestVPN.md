@@ -1,6 +1,6 @@
+vless://f011f0cb-761b-407b-8771-684d7b18d8bd@104.21.23.129:443?path=%2F&security=tls&encryption=none&host=restvpnbest.restvpn.workers.dev&type=ws&sni=restvpnbest.restvpn.workers.dev#%40RestVPN%F0%9F%91%BE+Test+%F0%9F%92%80%F0%9F%92%80%F0%9F%92%80
 vless://f011f0cb-761b-407b-8771-684d7b18d8bd@104.21.23.129:2096?path=%2F&security=tls&encryption=none&host=restvpnbest.restvpn.workers.dev&type=ws&sni=restvpnbest.restvpn.workers.dev#%40RestVPN+%F0%9F%87%A7%F0%9F%87%AA
 vless://f011f0cb-761b-407b-8771-684d7b18d8bd@104.16.2.22:443?path=%2F&security=tls&encryption=none&host=restvpnbest.restvpn.workers.dev&type=ws&sni=restvpnbest.restvpn.workers.dev#RestVPN+%F0%9F%87%A6%F0%9F%87%B4
-vless://f011f0cb-761b-407b-8771-684d7b18d8bd@104.21.23.129:443?path=%2F&security=tls&encryption=none&host=restvpnbest.restvpn.workers.dev&type=ws&sni=restvpnbest.restvpn.workers.dev#%40RestVPN%F0%9F%91%BE+Test+%F0%9F%92%80%F0%9F%92%80%F0%9F%92%80
 vless://f011f0cb-761b-407b-8771-684d7b18d8bd@104.17.93.199:443?path=%2F&security=tls&encryption=none&host=restvpnbest.restvpn.workers.dev&type=ws&sni=restvpnbest.restvpn.workers.dev#RestVPN+%F0%9F%87%A6%F0%9F%87%A8
-vless://xvvholpgdsas@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp#Mehdi+Malekpour
 vless://5f431412-a5dd-4b22-91d9-1e859118ff8b@104.18.109.227:443?path=%2F&security=tls&encryption=none&host=worker-crimson-star-cac7.restvpn.workers.dev%0D%0Aworker-crimson-star-cac7.restvpn.workers.dev&type=ws&sni=worker-crimson-star-cac7.restvpn.workers.dev#NEW+Project
+vless://xvvholpgdsas@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp#Mehdi+Malekpour
