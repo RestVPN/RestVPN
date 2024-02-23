@@ -11,21 +11,6 @@ vless://UUUUUUUUUUUUUUUUUUU@cf.qfruiti.in:2053?encryption=none&security=tls&sni=
 vless://UUUUUUUUUUUUUUUUUUU@cf.qfruiti.in:2096?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2096
 vless://UUUUUUUUUUUUUUUUUUU@cf.qfruiti.in:2087?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2087
 vless://UUUUUUUUUUUUUUUUUUU@cf.qfruiti.in:2083?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2083
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:80?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-80
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:8080?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-8080
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:8880?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-8880
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2052?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-2052
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2086?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-2086
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2095?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-2095
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2082?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTP-2082
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:443?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-443
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:8443?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-8443
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2053?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2053
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2096?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2096
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2087?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2087
-vless://UUUUUUUUUUUUUUUUUUU@45.159.216.228:2083?encryption=none&security=tls&sni=Sina-Jahangiri.Restvpn3.workers.dEv&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#IRC-MCI%5BRestVPN%5D-%20HTTPS-2083
-
-
 
 
 vless://UUUUUUUUUUUUUUUUUUU@www.wto.org:80?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=Sina-Jahangiri.Restvpn3.workers.dEv&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#RestVPN%2A%20HTTP-80
