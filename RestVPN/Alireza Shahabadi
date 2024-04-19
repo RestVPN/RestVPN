@@ -79,4 +79,8 @@ vless://a42df808-8bf1-40fb-b09d-2e656df084eb@172.67.175.108:8080?encryption=none
 vless://a42df808-8bf1-40fb-b09d-2e656df084eb@172.67.175.108:8880?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-8880
 vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:2052?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-2052
 vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:2082?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-2082
-vless://
+vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:2086?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-2086
+vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:2095?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-2095
+vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:80?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-80
+vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:8080?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-8080
+vless://a42df808-8bf1-40fb-b09d-2e656df084eb@104.17.252.166:8880?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=aliReza-shahabadi.Restvpnn.Workers.deV&path=%2Fw7iBsE7gkA-wO24f%3Fed%3D2048#MCI%5BRestVPN%5D-%20HTTP-8880
