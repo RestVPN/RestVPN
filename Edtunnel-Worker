@@ -1,3 +1,7 @@
+vless://216adbfa-a1b8-4947-8cf6-f1e246556719@edtunnel-worker.restvpn.workers.dev:443?encryption=none&security=tls&sni=edtunnel-worker.restvpn.workers.dev&fp=randomized&type=ws&host=edtunnel-worker.restvpn.workers.dev&path=%22F%3Fed%3D2048#edtunnel-worker.restvpn.workers.dev
+vless://216adbfa-a1b8-4947-8cf6-f1e246556719@asdasd:443?encryption=none&security=tls&sni=edtunnel-worker.restvpn.workers.dev&fp=randomized&type=ws&host=edtunnel-worker.restvpn.workers.dev&path=%22F%3Fed%3D2048#edtunnel-worker.restvpn.workers.dev
+
+
 vless://216adbfa-a1b8-4947-8cf6-f1e246556719@www.visa.com.sg:80?encryption=none&security=none&sni=Edtunnel-Worker.Restvpn.Workers.deV&alpn=h2%2Chttp%2F1.1&type=ws&host=Edtunnel-Worker.Restvpn.Workers.deV&path=%2FLc9j0uf163JnJbJJ%3Fed%3D2560#Restvpn%20VIPedTunel
 vless://216adbfa-a1b8-4947-8cf6-f1e246556719@www.visa.com.sg:8080?encryption=none&security=none&sni=Edtunnel-Worker.Restvpn.Workers.deV&alpn=h2%2Chttp%2F1.1&type=ws&host=Edtunnel-Worker.Restvpn.Workers.deV&path=%2FLc9j0uf163JnJbJJ%3Fed%3D2560#Restvpn%20VIPedTunel
 vless://216adbfa-a1b8-4947-8cf6-f1e246556719@www.visa.com.sg:8880?encryption=none&security=none&sni=Edtunnel-Worker.Restvpn.Workers.deV&alpn=h2%2Chttp%2F1.1&type=ws&host=Edtunnel-Worker.Restvpn.Workers.deV&path=%2FLc9j0uf163JnJbJJ%3Fed%3D2560#Restvpn%20VIPedTunel
